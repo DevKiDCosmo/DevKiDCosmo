@@ -2,7 +2,7 @@
 
 I'm a Dev. The big project that I'm developing is Cosmo Universe. It is a programming language that perform calculation, graphics and more in under millisecond. The hard part about the project is, I DON'T KNOW HOW TO DO THAT. I bring the compile time up to 3 mm. That is not fast enough. Please humans and devs. Help me. The reposity is: https://github.com/DevKiDMediaCreation/cosmolangarchitecture-CosArch
 
-> _<I will release the first version of Cosmolang Arch... in 2024 oder earlier.>_
+> _<I will release the first version of Cosmolang Arch... in 2024 or earlier.>_
 
 ## The current projects I work:
 - **Cosmo Universe** *BIG PROJECT* :octocat: 🥇
