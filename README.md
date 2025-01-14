@@ -16,7 +16,7 @@ C/C++; F#; C#; Flutter/Bart; Objective C/C++; Swift; PHP; Markdown; TS/JS; HTML/
 
 ## A short story about me:
 I start developing in my 8th year. I started with Java, then C, then C++... (A very long list).
-I can speak 7 languages (German, Vietnamese, English, Japanese, Chinese, Korean and Latin). I can program in over 50 programming languages. My life is boring and I like programming and eating. I also like code and was in quarantine for 2 years. It is now 2023. I'm a male. That is all you need ti know.
+I can speak 7 languages (German, Vietnamese, English, Japanese, Chinese, Korean and Latin). I can program in over 50 programming languages. My life is boring and I like programming and eating. I also like code and was in quarantine for 2 years. It is now 2025. That is all you need to know.
 
 <a href="">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=devkidcosmo&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&count_private=true&show_icons=true&theme=dark" />
