@@ -9,13 +9,10 @@ C/C++; F#; C#; Flutter/Bart; Objective C/C++; Swift; PHP; Markdown; TS/JS; HTML/
 ## The current projects I work:
 - **Cosmo Universe** *BIG PROJECT* :octocat: 🥇
 - * Cosmolang 🦄
-- * Kranken Cosmolang 🐙
+- * Kraken Cosmolang 🐙
 - * Indexing Programming Language Managment System (IPLMS). ***VERY IMPORTANT and very complex***
+- * IPLMS -> IPL Legacy. I will create IPL and IPlA. (Better versions) 
 - * Cosmolang Architecture Research Labs 🥼 (CARL/CosArch)
-
-- **DRC-Express** NANO PROJECT
-
--  **MATH EXPRESSION CALCULATION**
 
 ## A short story about me:
 I start developing in my 8th year. I started with Java, then C, then C++... (A very long list).
