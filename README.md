@@ -4,7 +4,7 @@ I'm a Dev. The big project that I'm developing is Cosmo Universe. It is a progra
 
 Programming language/Frameworks that I can/use:
 
-C/C++; F#; C#; Flutter/Bart; Objective C/C++; Swift; PHP; Markdown; TS/JS; HTML/CSS; Cosmolang; ASM; Bash; Rust; Shell; Java; Unity; Unreal Engine; GodotScript; Python; MySql/Sql; Scala; Kotlin; React; VCB Asm; Vue.js; SVG, 
+C/C++; F#; C#; Flutter/Bart; Swift; PHP; Markdown; TS/JS; HTML/CSS; Cosmolang; ASM; Bash; Rust; Shell; Java; Python; MySql/Sql; Scala; Kotlin; React; Vue.js
 
 ## The current projects I work:
 - **Cosmo Universe** *BIG PROJECT* :octocat: 🥇
