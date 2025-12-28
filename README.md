@@ -14,6 +14,10 @@ C/C++; F#; C#; Flutter/Bart; Swift; PHP; Markdown; TS/JS; HTML/CSS; Cosmolang; A
 - * IPLMS -> IPL Legacy. I will create IPL and IPlA. (Better versions) 
 - * Cosmolang Architecture Research Labs 🥼 (CARL/CosArch)
 
+- Nao
+- * Kernel
+- * Bootloader
+
 ## A short story about me:
 I start developing in my 8th year. I started with Java, then C, then C++... (A very long list).
 I can speak 7 languages (German, Vietnamese, English, Japanese, Chinese, Korean and Latin). I can program in over 50 programming languages. My life is boring and I like programming and eating. I also like code and was in quarantine for 2 years. It is now 2025. That is all you need to know.
