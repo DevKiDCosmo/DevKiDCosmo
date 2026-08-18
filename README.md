@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm DevKiD
 
-I'm a Dev. The big project that I'm developing is Cosmo Universe. It is a programming language that perform calculation, graphics and more in under millisecond.
+I'm a Dev. The big project that I'm developing is Cosmo Universe. It is a programming language that perform well enough.
 
 Programming language/Frameworks that I can/use:
 
