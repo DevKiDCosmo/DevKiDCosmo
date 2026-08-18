@@ -2,9 +2,9 @@
 
 I'm a Dev. The big project that I'm developing is Cosmo Universe. It is a programming language that perform well enough.
 
-Programming language/Frameworks that I can/use:
+Programming language that I use:
 
-C/C++; F#; C#; Flutter/Bart; Swift; PHP; Markdown; TS/JS; HTML/CSS; Cosmolang; ASM; Bash; Rust; Shell; Java; Python; MySql/Sql; Scala; Kotlin; React; Vue.js
+C/C++; C#; PHP; Markdown; TS/JS; HTML/CSS; Cosmolang; ASM; Bash; Rust; Shell; Python; MySql/Sql; -- I forgot some.
 
 ## The current projects I work:
 - **Cosmo Universe** *BIG PROJECT* :octocat: 🥇
